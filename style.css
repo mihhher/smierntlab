@@ -1,0 +1,32 @@
+/*Selector {
+	Property: value;
+	}*/
+
+	h1 {
+		cursor: url(skulls.ani), url(https://cur.cursors-4u.net/others/oth-1/oth92.png), auto !important;
+		font-style: normal;
+		text-align: center;
+		font-size: 40px;
+		text-decoration: blink;
+		font-family: "Roboto Slab";
+	}
+
+	#menu {
+		
+		cursor: cell;
+		text-align: center;
+		font-family: "Roboto Slab";
+		display: inline-flex;
+
+	}
+
+	#imghome {
+				text-align: center;
+
+	}
+
+/*	ask <person> to draw you something. after they do,
+ describe what they painted and ask question about it, and then,
+  comment the answer, then take the e-mail, and send them, 
+  a short summary of your conversation, with their picture,
+   and a version that you drew with some ai gen*/
