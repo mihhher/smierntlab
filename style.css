@@ -11,11 +11,6 @@
 		font-family: "Roboto Slab";
 	}
 
-	#menu {
-		
-		display: inline-b
-
-	}
 
 	#imghome {
 				text-align: center;
@@ -23,7 +18,7 @@
 	}
 
 button {
-align-self: center;
+justify-content: center;
 text-align: center;
   font-family: "Roboto Slab";
   cursor: cell;  
