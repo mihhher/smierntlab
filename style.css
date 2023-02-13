@@ -10,11 +10,27 @@
 		text-decoration: blink;
 		font-family: "Roboto Slab";
 	}
-
+	
+	h2 {
+		font-family: "UnifrakturMaguntia";
+		text-align: center;
+	}
 
 	#imghome {
 				text-align: center;
 
+	}
+
+	h3:link {
+				color: black;
+	}
+	h3:hover {
+  				color: f07bff;
+  				text-decoration: underline;
+	}
+	h3:visited {
+				color: black;
+				text-decoration: none;
 	}
 
 button {
@@ -35,3 +51,9 @@ button:active {
   left: 5px;
 }
 
+#ada {
+	cursor: url(heart.ani), url(http://www.rw-designer.com/cursor-view/185774.png), auto !important;
+	font-family: Silkscreen;
+	text-align: center;
+	
+}
